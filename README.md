@@ -36,6 +36,8 @@ According to academic quality, universities are ranked into three grades of grad
 
 "cap-of-lowtech-industries" is a slider for determining the capacity level of low-tech industries.
 
+![Modeling_employment_of_university_graduates interface](https://github.com/user-attachments/assets/090e868a-73ca-4b53-8892-5df115257b94)
+
 
 
 ## THINGS TO NOTICE
